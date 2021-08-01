@@ -1,2 +1,4 @@
 # cryptocoinid.apk
-Apk nys disini gan :)
+Apk nya disini gan :)
+
+untuk mengakses web nya disini : https://cryptocoinid.xyz
